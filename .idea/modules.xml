@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../IOT/database_data_entry/.idea/database_data_entry.iml" filepath="$PROJECT_DIR$/../../IOT/database_data_entry/.idea/database_data_entry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../IOT/insteon_socket_prog/.idea/insteon_socket_prog.iml" filepath="$PROJECT_DIR$/../../IOT/insteon_socket_prog/.idea/insteon_socket_prog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../IOT/mock_socket_client_api/.idea/mock_socket_client_api.iml" filepath="$PROJECT_DIR$/../../IOT/mock_socket_client_api/.idea/mock_socket_client_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mysite.iml" filepath="$PROJECT_DIR$/.idea/mysite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../IOT/regression_client_api/.idea/regression_client_api.iml" filepath="$PROJECT_DIR$/../../IOT/regression_client_api/.idea/regression_client_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../IOT/socket_prog/.idea/socket_prog.iml" filepath="$PROJECT_DIR$/../../IOT/socket_prog/.idea/socket_prog.iml" />
+    </modules>
+  </component>
+</project>

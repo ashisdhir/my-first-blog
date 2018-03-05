@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="socket_prog" />
+    <orderEntry type="module" module-name="insteon_socket_prog" />
+    <orderEntry type="module" module-name="mock_socket_client_api" />
+    <orderEntry type="module" module-name="database_data_entry" />
+    <orderEntry type="module" module-name="regression_client_api" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
