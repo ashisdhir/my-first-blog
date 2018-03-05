@@ -1,0 +1,10 @@
+{% load static %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'emp_details/style1.css' %}" />
+
+<h1>{{ reporter.first_name }}</h1>
+<ul>
+    {% for article in reporter.article_set.all %}
+    <li><a>{{ article.headline }}</a>></li>
+    {% endfor %}
+</ul>

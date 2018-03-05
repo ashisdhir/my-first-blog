@@ -1,0 +1,14 @@
+{% load static %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'emp_details/style.css' %}" />
+
+
+{% if latest_reporter_list %}
+    <ul>
+        {% for reporter in latest_reporter_list %}
+            <li><a href="{% url 'emp_details:detail' reporter.id %}">{{ reporter.first_name }}</a></li>
+        {% endfor %}
+    </ul>
+{% else %}
+    <p>No Reporter are available</p>
+{% endif %}
