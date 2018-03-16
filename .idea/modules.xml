@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/mysite.iml" filepath="$PROJECT_DIR$/.idea/mysite.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../IOT/regression_client_api/.idea/regression_client_api.iml" filepath="$PROJECT_DIR$/../../IOT/regression_client_api/.idea/regression_client_api.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../IOT/socket_prog/.idea/socket_prog.iml" filepath="$PROJECT_DIR$/../../IOT/socket_prog/.idea/socket_prog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../worklookup/.idea/worklookup.iml" filepath="$PROJECT_DIR$/../worklookup/.idea/worklookup.iml" />
     </modules>
   </component>
 </project>
